@@ -1,5 +1,8 @@
 # CTF Wiki
 
+## ONE CHALLENGE ONLY GIVES A PARTIAL FLAG
+### If you have a partial flag, visit HT230 to get the full flag
+
 Capture The Flags, or CTFs, are a kind of computer security competition.
 
 Teams of competitors (or just individuals) are pitted against each other in a test of computer security skill.
